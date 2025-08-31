@@ -5,7 +5,7 @@ export const Data = {
     location: "Melbourne, Australia",
     email: "damonwang42@gmail.com",
     // telephone: "+61 xxxxxxxx",
-    image: "/images/me.jpg",
+    image: "/react-resume/images/me.jpg",
   },
   aboutMe: {
     label: "Profile",
