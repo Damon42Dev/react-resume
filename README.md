@@ -25,3 +25,8 @@
 
 1. Run `yarn dev` or `npm run dev` to start the app.
 2. Open your browser and navigate to `http://localhost:5173`.
+
+### Make the update reflect in the github pages
+
+1. Run `yarn deploy` to build and deploy the app
+2. View the udpates in `https://damon42dev.github.io/react-resume/`
