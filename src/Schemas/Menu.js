@@ -27,7 +27,7 @@ export const Menu = {
     },
     {
       label: "Proyectos",
-      section: "#proyects",
+      section: "#projects",
       className: "bx-award",
     },
   ],

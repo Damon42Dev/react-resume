@@ -11,7 +11,7 @@ export const Academic = ({ academic }) => {
   );
 };
 
-const Academy = ({ career, date, institution }) => {
+const Academy = ({ career, date, institution, award }) => {
   return (
     <div className="education__content">
       <div className="education__time">
@@ -22,6 +22,7 @@ const Academy = ({ career, date, institution }) => {
         <h3 className="education__title">{career}</h3>
         <span className="education__year">{date}</span>
         <span className="education__studies">{institution}</span>
+        <span className="education__award">{award}</span>
       </div>
     </div>
   );
