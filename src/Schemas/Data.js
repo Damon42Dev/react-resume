@@ -17,6 +17,8 @@ export const Data = {
     softLabel: "Skills",
     technicalSkills: [
       "React",
+      "Mobx",
+      "Material UI",
       "Go",
       "GraphQL",
       "RESTful",
@@ -62,9 +64,9 @@ export const Data = {
         period: "Feb. 2021 - Current",
         company: "ECAL Marketing Pty Ltd.",
         description: [
-          "Development and continuous improvement of REST microservices in Java and Node.js(JS/TS).",
-          "Development and continuous improvement of PWA in the technologies Angular, Ionic and Cordova.",
-          "CI/CD pipeline with Bitbucket, Jenkins and AWS as infrastructure.",
+          "Development and continuous improvement of REST and GraphQL microservices in Go.",
+          "Development and continuous improvement of ECAL systems in the technologies React, Mobx and Material UI.",
+          "CI/CD pipeline with Bitbucket, Gauge and Taiko End to End testing tools and AWS as infrastructure.",
         ],
       },
       {
@@ -86,39 +88,40 @@ export const Data = {
     ],
     projects: [
       {
-        name: "Sync Display V2",
-        company: "ECAL",
+        name: "ECAL Sync Display V2",
+        // company: "ECAL",
         // period: "Nov. 2021 - Ene. 2022",
         description: [
-          "Development of REST Web Services in Java and Nodejs(JS/TS) accompanied by different database engines like Mysql, Oracle, MariaDB, MongoDB and IBM API Connect and 3scale as API Gateway.",
-          "Development of Frontend and Mobile with technologies like Angular, React, React Native, Ionic and Cordova.",
+          "Development of REST Web Services in Go accompanied by different database engines like Mysql, MongoDB and Google/Outlook Calendar API.",
+          "Development of Frontend and Mobile with technologies like React, Mobx and Material UI.",
         ],
       },
       {
         name: "Manage My ECAL",
-        company: "ECAL",
+        // company: "ECAL",
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Control, development and securing of APIs on IBM API Connect platform.",
-          "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
+          "Developmoent of Google and Microsoft signgle sign on authentication.",
+          "Frontend development in React, Mobx and Material UI for consuming REST and GraphQL Web Services.",
         ],
       },
       {
-        name: "Event Display",
-        company: "ECAL",
+        name: "ECAL Event Display",
+        // company: "ECAL",
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Control, development and securing of APIs on IBM API Connect platform.",
-          "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
+          "Development of Event Display application in React, Mobx and Material UI for displaying calendar event information.",
+          "Developed Event Display in multiple views and display types for desktop and mobile end like Page, Calendar, Column and Carousel.",
         ],
       },
       {
         name: "ECAL Admin",
-        company: "ECAL",
+        // company: "ECAL",
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Control, development and securing of APIs on IBM API Connect platform.",
-          "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
+          "Development of ECAL Admin application in React, Mobx and Material UI for managing ECAL widgets.",
+          "Integration of Super Admin feature in ECAL Admin for managing ECAL admin accounts.",
+          "Integration of Billing and Payement feature in ECAL Admin for ECAL admin account subscriptions.",
         ],
       },
     ],
