@@ -6,7 +6,7 @@ export const Profile = ({
   ocupation,
   location,
   email,
-  telephone,
+  // telephone,
   image,
   social,
   isMobileView,
@@ -29,7 +29,7 @@ export const Profile = ({
             <i className="bx bx-map social__icon" /> {location}
           </span>
           <BoxIcon className="home__icon bx-envelope" label={`Enviar un correo electrónico a ${name}`} url={`mailto:${email}`} />
-          <BoxIcon className="home__icon bx-phone" label={`Llamar por teléfono a ${name}`} url={`tel:${telephone}`} />
+          {/* <BoxIcon className="home__icon bx-phone" label={`Llamar por teléfono a ${name}`} url={`tel:${telephone}`} /> */}
           {true && social.map((social) => <BoxIcon key={social.name} {...social} />)}
         </div>
       </div>
