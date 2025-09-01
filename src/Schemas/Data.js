@@ -67,7 +67,7 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "Software Engineer (FullStack)",
+        title: "Software Engineer (FullStack+Tester)",
         period: "Feb. 2021 - Current",
         company: "ECAL Marketing Pty Ltd.",
         description: [
@@ -95,18 +95,36 @@ export const Data = {
     ],
     projects: [
       {
-        name: "Onboarding Digital",
-        company: "Banco Ripley",
-        period: "Nov. 2021 - Ene. 2022",
+        name: "Sync Display V2",
+        company: "ECAL",
+        // period: "Nov. 2021 - Ene. 2022",
         description: [
           "Development of REST Web Services in Java and Nodejs(JS/TS) accompanied by different database engines like Mysql, Oracle, MariaDB, MongoDB and IBM API Connect and 3scale as API Gateway.",
           "Development of Frontend and Mobile with technologies like Angular, React, React Native, Ionic and Cordova.",
         ],
       },
       {
-        name: "Digital Capture",
-        company: "Banco Ripley",
-        period: "Ene. 2022 - Feb. 2022",
+        name: "Manage My ECAL",
+        company: "ECAL",
+        // period: "Ene. 2022 - Feb. 2022",
+        description: [
+          "Control, development and securing of APIs on IBM API Connect platform.",
+          "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
+        ],
+      },
+      {
+        name: "Event Display",
+        company: "ECAL",
+        // period: "Ene. 2022 - Feb. 2022",
+        description: [
+          "Control, development and securing of APIs on IBM API Connect platform.",
+          "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
+        ],
+      },
+      {
+        name: "ECAL Admin",
+        company: "ECAL",
+        // period: "Ene. 2022 - Feb. 2022",
         description: [
           "Control, development and securing of APIs on IBM API Connect platform.",
           "Frontend development in Angular for consuming SOAP/REST Web Services targeting DEV/PRE-PROD/PROD environments as simulation.",
