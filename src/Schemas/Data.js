@@ -85,7 +85,7 @@ export const Data = {
     projects: [
       {
         name: "ECAL Admin",
-        // company: "ECAL",
+        // company: "ECAL", 
         // period: "Ene. 2022 - Feb. 2022",
         description: [
           "Developed and maintained the ECAL Admin platform using React, MobX, and Material UI, supporting internal operations and customer management.",
