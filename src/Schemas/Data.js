@@ -4,7 +4,7 @@ export const Data = {
     occupation: "FullStack Software Developer",
     location: "Melbourne, Australia",
     email: "damonwang42@gmail.com",
-    // telephone: "+61 xxxxxxxx",
+    // telephone: "+61 xxxxxxxx", 
     image: "/react-resume/images/me.jpg",
   },
   aboutMe: {
