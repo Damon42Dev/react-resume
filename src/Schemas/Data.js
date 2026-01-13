@@ -10,7 +10,7 @@ export const Data = {
   aboutMe: {
     label: "Profile",
     description:
-      "FullStack Software Developer, with a passion for building scalable and efficient web applications. I am a quick learner and I am always seeking for new challenges and opportunities to grow.",
+      "Full Stack Software Developer with experience building scalable, React-based web applications and integrating backend services on AWS. Strong focus on delivering maintainable, user-centric solutions through collaborative development.",
   },
   skills: {
     technicalLabel: "Technologies",
@@ -30,11 +30,9 @@ export const Data = {
     ],
     softSkills: [
       "Problem Solving",
-      "Teamwork",
-      "Communication",
-      "Proactivity",
-      "Creativity",
-      "Autodidactism",
+      "System Design",
+      "Ownership",
+      "Team Collaboration",
       "Mentoring",
     ],
   },
@@ -62,7 +60,7 @@ export const Data = {
         period: "Feb. 2022 - Current",
         company: "ECAL Marketing Pty Ltd.",
         description: [
-          "Full-stack engineer developing React-based SaaS applications with Go microservices on AWS, delivering scalable B2C/B2B products through collaborative, end-to-end development.",
+          "Developed React-based SaaS applications, collaborating with Go services on AWS to deliver scalable B2C and B2B products.",
         ],
       },
       {
@@ -88,10 +86,10 @@ export const Data = {
         // company: "ECAL", 
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Developed and maintained the ECAL Admin platform using React, MobX, and Material UI, supporting internal operations and customer management.",
-          "Implemented email OTP–based Two-Factor Authentication (2FA) with AWS Amplify Gen 2, Amazon Cognito, and Lambda triggers.",
-          "Integrated billing and subscription workflows using Chargify.js, including plans, payments, coupons, and subscription management.",
-          "Improved admin usability and support workflows through Intercom integration and ongoing dependency upgrades.",
+          "Developed and maintained the ECAL Admin platform, empowering ECAL publishers to manage and control their calendar data.",
+          "Implemented email OTP–based 2FA using AWS Amplify Gen 2, Amazon Cognito, and Lambda triggers.",
+          "Integrated billing and subscription management with Chargify.js, covering plans, payments, coupons, and renewals.",
+          "Improved admin usability and support workflows through Intercom integration and dependency maintenance.",
         ],
       },
       {
@@ -99,11 +97,9 @@ export const Data = {
         // company: "ECAL",
         // period: "Nov. 2021 - Ene. 2022",
         description: [    
-          "Contributed to the redevelopment of ECAL’s core consumer-facing product, fully replacing the legacy Sync Display with a modernized V2 solution.",
-          "Built and maintained the frontend using React, MobX, and Material UI, delivering a responsive and scalable user experience for C-end subscribers.",
-          "Enabled users to seamlessly sync sports and event fixtures to major calendar platforms, including Google Calendar, Apple Calendar, and Outlook.",
-          "Participated in the full development lifecycle, including feature implementation, functional testing, bug fixing, and release validation.",
-          "Authored and maintained technical documentation, improving onboarding efficiency and long-term maintainability of the product.",
+          "Contributed to the rebuild of ECAL’s core consumer-facing Sync Display, replacing a legacy system.",
+          "Developed a scalable frontend with React, MobX, and Material UI for B2C subscribers.",
+          "Enabled seamless syncing of event fixtures to Google Calendar, Apple Calendar, and Outlook.",
         ],
       },
       {
@@ -111,7 +107,7 @@ export const Data = {
         // company: "ECAL",
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Developed the Event Display application to present calendar event data across multiple formats.",
+          "Built a flexible Event Display system for presenting calendar event data.",
           "Implemented responsive UI components supporting Page, Calendar, Column, and Carousel views.",
           "Ensured consistent user experience across desktop and mobile devices.",
         ],
@@ -122,10 +118,9 @@ export const Data = {
         // company: "ECAL",
         // period: "Ene. 2022 - Feb. 2022",
         description: [
-          "Developed a consumer-facing application enabling subscribers to manage their subscribed event schedules.",
-          "Implemented Google and Microsoft Single Sign-On (SSO) for secure and streamlined authentication.",
-          "Built frontend features using React, MobX, and Material UI, integrating RESTful and GraphQL APIs.",
-          "Contributed across frontend and backend layers, including authentication and data flow implementation.",
+          "Developed a consumer-facing application enabling subscribers to manage their event subscriptions.",
+          "Implemented Google and Microsoft SSO for secure and frictionless authentication.",
+          "Integrated frontend features with RESTful and GraphQL APIs, contributing across frontend and backend layers.",
         ],
       },
     ],
